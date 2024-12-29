@@ -1,3 +1,0 @@
-# Note
-
-some text
