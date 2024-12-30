@@ -1,7 +1,5 @@
 {
-  "strictLineBreaks": true,
-  "spellcheck": false,
-  "alwaysUpdateLinks": false,
+  "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
