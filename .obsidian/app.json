@@ -1,1 +1,9 @@
-{}
+{
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assest"
+}
