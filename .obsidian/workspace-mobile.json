@@ -27,8 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "obsidian/Note.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -110,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Note.md",
+            "file": "obsidian/Note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Note.md",
+            "file": "obsidian/Note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Note.md"
+            "file": "obsidian/Note.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -165,7 +166,7 @@
   "active": "51be13308d6f3b86",
   "lastOpenFiles": [
     "README.md",
-    "Note.md",
+    "obsidian/Note.md",
     "obsidian"
   ]
 }
