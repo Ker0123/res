@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce8b29cd8a13a45",
+        "id": "409b8bfba7385618",
         "type": "tabs",
         "children": [
           {
-            "id": "ffebbd71345144ff",
+            "id": "ad25b2212707f80f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of Note"
             }
+          },
+          {
+            "id": "a5d4e37a023b4624",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffebbd71345144ff",
+  "active": "7d468d182be70668",
   "lastOpenFiles": [
-    "obsidian/assest/头像.png",
+    "未命名.canvas",
     "obsidian/Note.md",
+    "obsidian/assest/头像.png",
     "README.md",
     "obsidian/assest"
   ]
