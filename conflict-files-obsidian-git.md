@@ -9,5 +9,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
 
 ```diff
+<<<<<<< HEAD
     File changes in remote repository
+>>>>>>> origin/main
 ```
