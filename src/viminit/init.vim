@@ -16,7 +16,7 @@ endif
 
 " 取得本文件所在的目录
 let s:home = fnamemodify(resolve(expand('<sfile>:p')), ':h')
-
+echo s:home
 " 定义一个命令用来加载文件
 command! -nargs=1 LoadScript exec 'so '.s:home.'/'.'<args>'
 
