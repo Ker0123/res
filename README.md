@@ -23,4 +23,4 @@ check! check!
   - [cppinit](src\cppinit\README.md): 一个CPP项目模板
   - [viminit](src\viminit\README.md): github上找到的一个配好的, 比较轻便的vim配置. 我将在上面慢慢改. [项目地址](https://github.com/skywind3000/vim-init)
 - `doc\`: 存放文档资源
-  - [learn-linux](https://ker0123.github.io/res/doc/learn-linux): 学习Linux使用时产生的笔记
+  - [learn-linux](https://ker0123.github.io/res/doc/learn-linux/learn-linux.md): 学习Linux使用时产生的笔记
