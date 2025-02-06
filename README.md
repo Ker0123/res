@@ -18,129 +18,129 @@ check! check!
 
 ## 目录
 
-.
-│  README.md
-│
-├─doc
-│  ├─learn-linux
-│  │  │  learn-linux.md
-│  │  │
-│  │  └─assest
-│  └─null
-├─img
-│      ai.jpg
-│      wallpaper.png
-│      zzz.jpg
-│      头像.png
-│
-├─res
-│      kms.rar
-│
-└─src
-    ├─cppinit
-    │  │  makefile
-    │  │  README.md
-    │  │
-    │  ├─.vscode
-    │  │      c_cpp_properties.json
-    │  │      launch.json
-    │  │      settings.json
-    │  │      tasks.json
-    │  │
-    │  ├─build
-    │  │  │  cppinit.exe
-    │  │  │
-    │  │  └─res
-    │  ├─doc
-    │  │  ├─assest
-    │  │  └─doxygen
-    │  ├─release
-    │  └─src
-    │          main.cpp
-    │          myclass.cpp
-    │          myclass.h
-    │
-    └─viminit
-        │  backup.zip
-        │  init.vim
-        │  LICENSE
-        │  README.md
-        │  viminit.zip
-        │
-        ├─autoload
-        │  │  plug.vim
-        │  │  quickmenu.vim
-        │  │
-        │  └─asyncrun
-        │      │  compat.vim
-        │      │  info.vim
-        │      │  locator.vim
-        │      │  macos.vim
-        │      │  utils.vim
-        │      │
-        │      ├─program
-        │      │      capture.vim
-        │      │      echo.vim
-        │      │      shebang.vim
-        │      │
-        │      └─runner
-        │              external.vim
-        │              floaterm.vim
-        │              floaterm_reuse.vim
-        │              gnome.vim
-        │              gnome_tab.vim
-        │              iterm.vim
-        │              konsole.vim
-        │              macos.vim
-        │              quickui.vim
-        │              termhelp.vim
-        │              tmux.vim
-        │              xfce.vim
-        │              xterm.vim
-        │
-        ├─colors
-        │      desert.vim
-        │      desert256.vim
-        │      dracula.vim
-        │      eclipse2.vim
-        │      gruvbox.vim
-        │      monokai.vim
-        │      oceanblack256.vim
-        │      papercol.vim
-        │      paradox.vim
-        │      seoul256-light.vim
-        │      seoul256.vim
-        │      solarized.vim
-        │      sublime.vim
-        │
-        ├─init
-        │      init-basic.vim
-        │      init-config.vim
-        │      init-keymaps.vim
-        │      init-plugins.vim
-        │      init-style.vim
-        │      init-tabsize.vim
-        │
-        ├─plugin
-        │      argtextobj.vim
-        │      asyncrun.vim
-        │      asynctasks.vim
-        │      commentary.vim
-        │      indent-object.vim
-        │      script_load.vim
-        │      task_ui_source.vim
-        │      txt.vim
-        │      unimpaired.vim
-        │
-        ├─syntax
-        │      quickmenu.vim
-        │
-        └─tools
-            └─conf
-                    CustomKeyMap.ckm
-                    CustomSample.tkm
-                    flake8.conf
-                    pylint.conf
-                    securecrt.key
-                    splint.conf
-                    xshell.xcs
+.  
+│  README.md  
+│  
+├─doc  
+│  ├─learn-linux  
+│  │  │  learn-linux.md  
+│  │  │  
+│  │  └─assest  
+│  └─null  
+├─img  
+│      ai.jpg  
+│      wallpaper.png  
+│      zzz.jpg  
+│      头像.png  
+│  
+├─res  
+│      kms.rar  
+│  
+└─src  
+    ├─cppinit  
+    │  │  makefile  
+    │  │  README.md  
+    │  │  
+    │  ├─.vscode  
+    │  │      c_cpp_properties.json  
+    │  │      launch.json  
+    │  │      settings.json  
+    │  │      tasks.json  
+    │  │  
+    │  ├─build  
+    │  │  │  cppinit.exe  
+    │  │  │  
+    │  │  └─res  
+    │  ├─doc  
+    │  │  ├─assest  
+    │  │  └─doxygen  
+    │  ├─release  
+    │  └─src  
+    │          main.cpp  
+    │          myclass.cpp  
+    │          myclass.h  
+    │  
+    └─viminit  
+        │  backup.zip  
+        │  init.vim  
+        │  LICENSE  
+        │  README.md  
+        │  viminit.zip  
+        │  
+        ├─autoload  
+        │  │  plug.vim  
+        │  │  quickmenu.vim  
+        │  │  
+        │  └─asyncrun  
+        │      │  compat.vim  
+        │      │  info.vim  
+        │      │  locator.vim  
+        │      │  macos.vim  
+        │      │  utils.vim  
+        │      │  
+        │      ├─program  
+        │      │      capture.vim  
+        │      │      echo.vim  
+        │      │      shebang.vim  
+        │      │  
+        │      └─runner  
+        │              external.vim  
+        │              floaterm.vim  
+        │              floaterm_reuse.vim  
+        │              gnome.vim  
+        │              gnome_tab.vim  
+        │              iterm.vim  
+        │              konsole.vim  
+        │              macos.vim  
+        │              quickui.vim  
+        │              termhelp.vim  
+        │              tmux.vim  
+        │              xfce.vim  
+        │              xterm.vim  
+        │  
+        ├─colors  
+        │      desert.vim  
+        │      desert256.vim  
+        │      dracula.vim  
+        │      eclipse2.vim  
+        │      gruvbox.vim  
+        │      monokai.vim  
+        │      oceanblack256.vim  
+        │      papercol.vim  
+        │      paradox.vim  
+        │      seoul256-light.vim  
+        │      seoul256.vim  
+        │      solarized.vim  
+        │      sublime.vim  
+        │  
+        ├─init  
+        │      init-basic.vim  
+        │      init-config.vim  
+        │      init-keymaps.vim  
+        │      init-plugins.vim  
+        │      init-style.vim  
+        │      init-tabsize.vim  
+        │  
+        ├─plugin  
+        │      argtextobj.vim  
+        │      asyncrun.vim  
+        │      asynctasks.vim  
+        │      commentary.vim  
+        │      indent-object.vim  
+        │      script_load.vim  
+        │      task_ui_source.vim  
+        │      txt.vim  
+        │      unimpaired.vim  
+        │  
+        ├─syntax  
+        │      quickmenu.vim  
+        │  
+        └─tools  
+            └─conf  
+                    CustomKeyMap.ckm  
+                    CustomSample.tkm  
+                    flake8.conf  
+                    pylint.conf  
+                    securecrt.key  
+                    splint.conf  
+                    xshell.xcs  
