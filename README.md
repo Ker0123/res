@@ -25,8 +25,7 @@ check! check!
 ## 摘要
 
 - doc/
-  - learn-linux/
-    - [learn-linux.md](/doc/learn-linux/learn-linux.md)
+  - [learn-linux/](/doc/learn-linux/learn-linux.md)
 - img/
   - [头像](/img/头像.png)
   - [ai](/img/ai.jpg)
