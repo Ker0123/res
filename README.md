@@ -6,6 +6,8 @@ check! check!
 
 ## 日志
 
+2025-02-06: @todo 优化菜单树, 想象有什么快速解决方案, 不必要每一次都手动去改.
+
 2025-01-27: 新建了`doc`文件夹. 如其名, 用以存文档. 起始原因是看Debian教程里面有Linux知识, 做个学习笔记.
 
 2025-01-24: 做了一个C++终端项目的自用模版.
@@ -16,131 +18,22 @@ check! check!
 
 2024-12-30: 使用安卓端的`Obsidian`和`Git Sync`将该仓库在本地同步。创建专门的文件夹存储`Obsidian`笔记。
 
-## 目录
+## 计划
 
-.  
-│  README.md  
-│  
-├─doc  
-│  ├─learn-linux  
-│  │  │  learn-linux.md  
-│  │  │  
-│  │  └─assest  
-│  └─null  
-├─img  
-│      ai.jpg  
-│      wallpaper.png  
-│      zzz.jpg  
-│      头像.png  
-│  
-├─res  
-│      kms.rar  
-│  
-└─src  
-    ├─cppinit  
-    │  │  makefile  
-    │  │  README.md  
-    │  │  
-    │  ├─.vscode  
-    │  │      c_cpp_properties.json  
-    │  │      launch.json  
-    │  │      settings.json  
-    │  │      tasks.json  
-    │  │  
-    │  ├─build  
-    │  │  │  cppinit.exe  
-    │  │  │  
-    │  │  └─res  
-    │  ├─doc  
-    │  │  ├─assest  
-    │  │  └─doxygen  
-    │  ├─release  
-    │  └─src  
-    │          main.cpp  
-    │          myclass.cpp  
-    │          myclass.h  
-    │  
-    └─viminit  
-        │  backup.zip  
-        │  init.vim  
-        │  LICENSE  
-        │  README.md  
-        │  viminit.zip  
-        │  
-        ├─autoload  
-        │  │  plug.vim  
-        │  │  quickmenu.vim  
-        │  │  
-        │  └─asyncrun  
-        │      │  compat.vim  
-        │      │  info.vim  
-        │      │  locator.vim  
-        │      │  macos.vim  
-        │      │  utils.vim  
-        │      │  
-        │      ├─program  
-        │      │      capture.vim  
-        │      │      echo.vim  
-        │      │      shebang.vim  
-        │      │  
-        │      └─runner  
-        │              external.vim  
-        │              floaterm.vim  
-        │              floaterm_reuse.vim  
-        │              gnome.vim  
-        │              gnome_tab.vim  
-        │              iterm.vim  
-        │              konsole.vim  
-        │              macos.vim  
-        │              quickui.vim  
-        │              termhelp.vim  
-        │              tmux.vim  
-        │              xfce.vim  
-        │              xterm.vim  
-        │  
-        ├─colors  
-        │      desert.vim  
-        │      desert256.vim  
-        │      dracula.vim  
-        │      eclipse2.vim  
-        │      gruvbox.vim  
-        │      monokai.vim  
-        │      oceanblack256.vim  
-        │      papercol.vim  
-        │      paradox.vim  
-        │      seoul256-light.vim  
-        │      seoul256.vim  
-        │      solarized.vim  
-        │      sublime.vim  
-        │  
-        ├─init  
-        │      init-basic.vim  
-        │      init-config.vim  
-        │      init-keymaps.vim  
-        │      init-plugins.vim  
-        │      init-style.vim  
-        │      init-tabsize.vim  
-        │  
-        ├─plugin  
-        │      argtextobj.vim  
-        │      asyncrun.vim  
-        │      asynctasks.vim  
-        │      commentary.vim  
-        │      indent-object.vim  
-        │      script_load.vim  
-        │      task_ui_source.vim  
-        │      txt.vim  
-        │      unimpaired.vim  
-        │  
-        ├─syntax  
-        │      quickmenu.vim  
-        │  
-        └─tools  
-            └─conf  
-                    CustomKeyMap.ckm  
-                    CustomSample.tkm  
-                    flake8.conf  
-                    pylint.conf  
-                    securecrt.key  
-                    splint.conf  
-                    xshell.xcs  
+- [ ] 2025-02-07 --> ? | 做一个自动生成摘要的应用程序或者脚本. 可能要多端, 设置好要忽略的路径, 把剩下的文件树生成为markdown格式的列表. 带上文件的跳转链接
+
+## 摘要
+
+- doc/
+  - learn-linux/
+    - [learn-linux.md](/doc/learn-linux/learn-linux.md)
+- img/
+  - [头像](/img/头像.png)
+  - [ai](/img/ai.jpg)
+  - [wallpaper](/img/wallpaper.png)
+  - [zzz](/img/zzz.jpg)
+- res/
+  - kms.rar
+- src/
+  - cppinit/
+  - [viminit/](https://github.com/skywind3000/vim-init)
