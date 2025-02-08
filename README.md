@@ -29,6 +29,7 @@ check! check!
 
 - doc/
   - [learn-linux/](/doc/learn-linux/learn-linux.md)
+  - [multi_lang](/doc/temp/multi_lang.md)
 - img/
   - [头像.png](/img/头像.png)
   - [ai.jpg](/img/ai.jpg)
