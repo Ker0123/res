@@ -6,6 +6,8 @@ check! check!
 
 ## 日志
 
+2025-02-08: @todo 了解到github的项目仓库自动生成网页功能, 可以用其搭一个方便自己查看内容的静态网站. 需要进一步学习配置方法等.
+
 2025-02-06: @todo 优化菜单树, 想象有什么快速解决方案, 不必要每一次都手动去改.
 
 2025-01-27: 新建了`doc`文件夹. 如其名, 用以存文档. 起始原因是看Debian教程里面有Linux知识, 做个学习笔记.
@@ -21,18 +23,19 @@ check! check!
 ## 计划
 
 - [ ] 2025-02-07 --> ? | 做一个自动生成摘要的应用程序或者脚本. 可能要多端, 设置好要忽略的路径, 把剩下的文件树生成为markdown格式的列表. 带上文件的跳转链接
+- [ ] 2025-02-08 --> ? | 学习github仓库生成网站方法, 使能够带格式浏览项目中所有markdown文件.
 
 ## 摘要
 
 - doc/
   - [learn-linux/](/doc/learn-linux/learn-linux.md)
 - img/
-  - [头像](/img/头像.png)
-  - [ai](/img/ai.jpg)
-  - [wallpaper](/img/wallpaper.png)
-  - [zzz](/img/zzz.jpg)
+  - [头像.png](/img/头像.png)
+  - [ai.jpg](/img/ai.jpg)
+  - [wallpaper.png](/img/wallpaper.png)
+  - [zzz.jpg](/img/zzz.jpg)
 - res/
-  - kms.rar
+  - [kms.rar](/res/kms.rar)
 - src/
-  - cppinit/
-  - [viminit/](https://github.com/skywind3000/vim-init)
+  - [cppinit/](/src/cppinit/README.md)
+  - [viminit/](/src/viminit/README.md)
