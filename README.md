@@ -6,6 +6,8 @@ check! check!
 
 ## 日志
 
+2025-02-24: 添加了一张vim键位的图片.
+
 2025-02-08: @todo 了解到github的项目仓库自动生成网页功能, 可以用其搭一个方便自己查看内容的静态网站. 需要进一步学习配置方法等.
 
 2025-02-06: @todo 优化菜单树, 想象有什么快速解决方案, 不必要每一次都手动去改.
@@ -35,6 +37,7 @@ check! check!
   - [ai.jpg](/img/ai.jpg)
   - [wallpaper.png](/img/wallpaper.png)
   - [zzz.jpg](/img/zzz.jpg)
+  - [vim-morden.png](/img/vim-morden.png)
 - res/
   - [kms.rar](/res/kms.rar)
 - src/
